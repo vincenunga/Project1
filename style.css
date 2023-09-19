@@ -1,0 +1,55 @@
+
+
+.heading{
+    background-color: burlywood;
+}
+
+.accordion{
+
+    width: 800px;
+    justify-content: center;
+    align-items: center;
+   
+
+}
+
+.center-accordion{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 30vh;
+   
+}
+
+
+.aboutuscontainer{
+
+    background-color: bisque;
+    text-align: center;
+    justify-content: center;
+    
+
+}
+
+.accordion-body{
+
+    background-color: darkgrey;
+}
+
+.contact-cont{
+
+    background-color: bisque;
+}
+
+
+
+
+
+
+    
+
+
+
+
+
